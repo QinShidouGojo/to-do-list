@@ -1,2 +1,2 @@
 # to-do-list
-Learning Git and GitHub to become a programmer.
+To-do list project created to strengthen the fundamentals of Python, Git, and GitHub.
